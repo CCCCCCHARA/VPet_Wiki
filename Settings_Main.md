@@ -14,4 +14,6 @@
 
 [图形](./Settings/Graph.md)
 
-[系统](./Settings/System)
+[系统](./Settings/System.md)
+
+[互动](./Settings/Interact.md)
