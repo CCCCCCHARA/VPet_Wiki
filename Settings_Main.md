@@ -13,3 +13,5 @@
 该游戏设置较多，你可以根据需要查询不同的条目：
 
 [图形](./Settings/Graph.md)
+
+[系统](./Settings/System)
