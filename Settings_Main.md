@@ -24,4 +24,4 @@
 
 [MOD管理](./Settings/MOD_Manage.md)
 
-关于
+[关于](./Settings/About.md)
