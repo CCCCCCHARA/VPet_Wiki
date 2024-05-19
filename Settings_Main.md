@@ -17,3 +17,11 @@
 [系统](./Settings/System.md)
 
 [互动](./Settings/Interact.md)
+
+自定
+
+诊断
+
+[MOD管理](./Settings/MOD_Manage.md)
+
+关于
