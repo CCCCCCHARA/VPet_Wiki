@@ -12,16 +12,16 @@
 
 该游戏设置较多，你可以根据需要查询不同的条目：
 
-[图形](./Settings/Graph.md)
+[图形](./Graph.md)
 
-[系统](./Settings/System.md)
+[系统](.System.md)
 
-[互动](./Settings/Interact.md)
+[互动](./Interact.md)
 
 自定
 
 诊断
 
-[MOD管理](./Settings/MOD_Manage.md)
+[MOD管理](./MOD_Manage.md)
 
-[关于](./Settings/About.md)
+[关于](./About.md)
